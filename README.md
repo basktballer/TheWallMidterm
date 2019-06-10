@@ -1,4 +1,8 @@
-# Midterm Project 'The Wall.'
+# Midterm Project 'The Knight's Watch'
+
+## About
+
+Pinterest for learners. Allow learners to save learning links in a central place that is publicly available to any user. You can find a hosted version of this application here. [Redirect to heroku!](https://arcane-everglades-65581.herokuapp.com/)
 
 ## Screenshots
 !['Screenshot Of Homepage'](https://github.com/basktballer/TheWallMidterm/blob/master/docs/desktop-home.png)
